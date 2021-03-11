@@ -1,4 +1,2 @@
-agents:
-  os: "windows"
 steps:
-  - command: "MSBuild HelloWorld/HelloWorld.sln"
+  - command: "../build.bat"
