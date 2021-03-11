@@ -1,2 +1,5 @@
+agents:
+  os: "windows"
+
 steps:
   - command: "build.bat"
