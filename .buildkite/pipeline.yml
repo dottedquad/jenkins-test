@@ -1,5 +1,4 @@
 agents:
   os: "windows"
-
 steps:
-  - command: "MSBuild HelloWorld\HelloWorld.sln"
+  - command: "MSBuild HelloWorld/HelloWorld.sln"
