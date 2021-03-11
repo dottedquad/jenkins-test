@@ -1,4 +1,4 @@
 agents:
-  os: "unknown"
+  os: "windows"
 steps:
   - command: "MSBuild HelloWorld/HelloWorld.sln"
